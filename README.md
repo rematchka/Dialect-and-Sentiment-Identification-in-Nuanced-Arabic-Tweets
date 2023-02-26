@@ -1,5 +1,5 @@
 # Dialect and Sentiment-Identification-in-Nuanced-Arabic-Tweets
-This Repository contains work done in NADI shared task 2022.  We achieve first place in both NADI 2022 subtasks by ensembling a set of models built on top Arabic-bert-based models in three settings: (1) prompt-based, (2) single fine-tuning, and multitask fine-tuning.
+This Repository contains work done in NADI shared task 2022.  We achieved first place in both NADI 2022 subtasks by ensembling a set of models built on top Arabic-bert-based models in three settings: (1) prompt-based, (2) single fine-tuning, and multitask fine-tuning.
 
 
 ## Overview
@@ -38,5 +38,5 @@ Multi-task based methods. Moreover, using an ensemble of different loss function
 1. `Official Results from website shared task 1`
 ![Alt text](Results/task_1.png?raw=true "Title")
 2. `Official Results from website shared task 2`
-![Alt text](Results/yask_2.png?raw=true "Title")
+![Alt text](Results/task_2.png?raw=true "Title")
 
